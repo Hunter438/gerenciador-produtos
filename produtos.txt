@@ -1,0 +1,3 @@
+fone de ouvido;50.00;15
+teclado office;30.00;10
+teclado gamer;150.00;13
